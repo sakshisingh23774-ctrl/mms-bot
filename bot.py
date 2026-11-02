@@ -48,7 +48,7 @@ def payment_menu():
 
 @bot.message_handler(commands=['start'])
 def start(message):
-    bot.send_message(message.chat.id, "🔥 *Welcom All video Mms bot
+    bot.send_message(message.chat.id, "🔥 *Welcom All video Mms bot")
 @bot.callback_query_handler(func=lambda call: True)
 def callback(call):
     if call.data.startswith("course_"):
