@@ -15,13 +15,13 @@ COURSES = {
     4: {"name": "RAP forestg"}, 5: {"name": "Mom SON CCTV"}, 6: {"name": "BAD Parents CP"},
     7: {"name": "Indian Hidden"}, 8: {"name": "Shemale"}, 9: {"name": "Sister Spy"},
     10: {"name": "Teen Girls"}, 11: {"name": "School GIRL"}, 12: {"name": "Bro Sister"},
-    13: {"name": "Indian Mom son "}, 14: {"name": "Oyo leked"}, 
+    13: {"name": "mom son indian "}, 14: {"name": "live daily video"} 
 }
 
 # ===== FINAL LINKS =====
-DEMO_LINK = "https://t.me/+bx0nRQTYEJg0M2Y1"
-PROOF_LINK = "https://t.me/prooftelegarmmafiya"
-SUPPORT_LINK = "https://t.me/saniya5666"
+DEMO_LINK ="https://t.me/+bx0nRQTYEJg0M2Y1"
+PROOF_LINK ="https://t.me/prooftelegarmmafiya"
+SUPPORT_LINK ="https://t.me/saniya5666"
 UPI_ID = "rkrj55055@okicici"
 UPI_PAY_STRING = f"upi://pay?pa={UPI_ID}&pn=CourseSeller&am=299&cu=INR&tn=Course 299"
 
