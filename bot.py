@@ -11,7 +11,7 @@ bot = telebot.TeleBot(BOT_TOKEN)
 
 # ===== 15 CHANNELS - SHORT NAME - SAB 299Rs =====
 COURSES = {
-    1: {"name": "Premium CP}, 2: {"name": "Indian CP"}, 3: {"name": "gay CP"},
+    1: {"name": "Premium CP"}, 2: {"name": "Indian CP"}, 3: {"name": "gay CP"},
     4: {"name": "RAP forestg"}, 5: {"name": "Mom SON CCTV"}, 6: {"name": "BAD Parents CP"},
     7: {"name": "Indian Hidden"}, 8: {"name": "Shemale"}, 9: {"name": "Sister Spy"},
     10: {"name": "Teen Girls"}, 11: {"name": "School GIRL"}, 12: {"name": "Bro Sister"},
