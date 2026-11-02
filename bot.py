@@ -5,7 +5,7 @@ import os
 from flask import Flask
 import threading
 
-BOT_TOKEN = "9253380875:AAEO87fr-pBGKM-vI-QTlYVeLw9ri_yfWFs"
+BOT_TOKEN = os.environ.get("BOT_TOKEN")
 bot = telebot.TeleBot(BOT_TOKEN)
 
 COURSES = {
