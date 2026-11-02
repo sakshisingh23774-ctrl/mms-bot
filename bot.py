@@ -6,7 +6,7 @@ from flask import Flask
 import threading
 
 # ===== TOKEN - READY HAI =====
-BOT_TOKEN = "9253380875:AAEO87fr-pBGKM-vI-QTlYVeLw9ri_yfWFs"
+BOT_TOKEN = "9253380875:AAFzIe2IGK-OnDLLE6AccjZuUTCzJ3wOjJO
 bot = telebot.TeleBot(BOT_TOKEN)
 
 # ===== 15 CHANNELS - SHORT NAME - SAB 299Rs =====
